@@ -1,0 +1,7 @@
+v1.0
+Initial Release
+V1.5
+Removed Addons than didn't work anymore, added more addons to sport,tv show and latino sections.
+V2.0
+Many Changes made, added shortcut section.
+V3.0 Borrado todo lo q no sirve, colocado lo nuevo
